@@ -7,6 +7,8 @@ It was initially designed for a game jam on itch.io site named [GBJam 11](https:
 - [Beepbox](https://www.beepbox.co/)
 - [Piskel](https://www.piskelapp.com/)
 
+# Game
+You can access the game through [my itch.io page](https://sirafshin.itch.io/no-space).
 
 ![image](https://github.com/SirAfshin/NoSpace/assets/49054585/71969da4-ae18-4bf6-bd00-8ae72d13fcb0)
 
