@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Powerup Spawner.gd" type="Script" id=1]
+
+[node name="Powerup Spawner" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="pos1" type="Position2D" parent="."]
+position = Vector2( 0, 40 )
+
+[node name="pos2" type="Position2D" parent="."]
+position = Vector2( 0, 88 )
+
+[node name="pos3" type="Position2D" parent="."]
+position = Vector2( 0, 120 )
+
+[node name="pos4" type="Position2D" parent="."]
+position = Vector2( 0, 64 )
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BeepBox-Song_Scifi.mp3-7292c191a8b99242fa3131bf44fcbe95.mp3str"
+
+[deps]
+
+source_file="res://Assets/BeepBox-Song_Scifi.mp3"
+dest_files=[ "res://.import/BeepBox-Song_Scifi.mp3-7292c191a8b99242fa3131bf44fcbe95.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
